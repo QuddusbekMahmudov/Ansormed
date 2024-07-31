@@ -9,14 +9,11 @@ import Footer from './components/Footer'
 const App = () => {
   return (
     <div>
-
       <Header/>
       <Hero/>
       <Xizmatlar/>
        <CTA/>  
-       <Footer/>  
-      
-
+       <Footer/>
     </div>
   )
 }
